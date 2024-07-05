@@ -1,0 +1,1 @@
+The Custom hook in React that faciliates detecting the direction of the scrollbar movement within a webpage. This hook determines whether the scrollbar is scrolling UP or DOWN and providing the corresponding direction as an output.
